@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: My Pages
 ---
 
-# My Pages
   * [IMMERSE Log]({{ site.baseurl }}{% link _pages/log.md %})
   * [About]({{ site.baseurl }}{% link _pages/about.md %})
