@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Pagex
+title: My Pages
 ---
 
   * [IMMERSE Log]({{ site.baseurl }}{% link _pages/log.md %})
