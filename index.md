@@ -6,5 +6,5 @@ layout: default
 ---
 
 # My Pages
-  * [IMMERSE Log]({% link _pages/log.md %})
-  * [About]({% link _pages/about.md %})
+  * [IMMERSE Log]({{ site.baseurl }}{% link _pages/log.md %})
+  * [About]({{ site.baseurl }}{% link _pages/about.md %})
